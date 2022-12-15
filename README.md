@@ -1,3 +1,4 @@
 # Minecraft Pseudo-localization Language Pack
 
-Add Microsoft-styled Pseudo-localization Language on Minecraft.
+Add some Microsoft-styled Pseudo-localization language into Minecraft.
+Useful for font testing.
